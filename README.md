@@ -14,11 +14,11 @@ Requisitos para Kotlin Backend Básico:
 
 ### Básico
 
-* Packages
-* Estruturas de Controle (entender o comportamento de *if/else*, *while*, *for* etc... [link](http://))
-* Tipos Básicos (*int*, *long*, *double* [link](http://))
-* Comments -------
-* Returns --------
+* Packages e Imports (entender como [estruturar e utilizar](https://kotlinlang.org/docs/reference/packages.html))
+* Estruturas de Controle (entender o comportamento de [*if/else*, *while*, *for*](https://kotlinlang.org/docs/reference/control-flow.html) etc)
+* Tipos Básicos (conhecer os tipos de dados básicos e entender onde e como aplicá-los: [*Int*, *Long*, *Double*](https://kotlinlang.org/docs/reference/basic-types.html) etc)
+* Comentários (??) -------
+* Returns (??) --------
 
 ### Classes
 
