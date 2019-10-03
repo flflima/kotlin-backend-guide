@@ -15,10 +15,10 @@ Requisitos para Kotlin Backend Básico:
 ### Básico
 
 * Packages
-* Control Structures
-* Basic Types
-* Comments
-* Returns
+* Estruturas de Controle (entender o comportamento de *if/else*, *while*, *for* etc... [link](http://))
+* Tipos Básicos (*int*, *long*, *double* [link](http://))
+* Comments -------
+* Returns --------
 
 ### Classes
 
