@@ -52,20 +52,20 @@ Requisitos para Kotlin Backend Intermediário:
 
 * Default Parameters
 * Extension Functions
-* [High-order Functions e Lambdas](https://kotlinlang.org/docs/reference/lambdas.html)
+* [High-Order Functions e Lambdas](https://kotlinlang.org/docs/reference/lambdas.html)
 * Currying
 * Inline
 * Infix
 * Operator overloading
 * Lambda properties
 
-### NULL-SAFETY
+### [NULL-SAFETY](https://kotlinlang.org/docs/reference/null-safety.html)
 
 * Modifers
 * Operators
 * Types
 
-### Generics
+### [Generics](https://kotlinlang.org/docs/reference/generics.html)
 
 * In
 * Out
