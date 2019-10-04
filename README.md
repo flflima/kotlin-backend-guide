@@ -22,11 +22,11 @@ Requisitos para Kotlin Backend Básico:
 
 ### Classes
 
-* Regular Class
-* Data Class
-* Sealed Class
+* [Classes](https://kotlinlang.org/docs/tutorials/kotlin-for-py/classes.html)
+* [Data Classes](https://kotlinlang.org/docs/reference/data-classes.html)
+* [Sealed Classes](https://kotlinlang.org/docs/reference/sealed-classes.html)
 * Object
-* Inline
+* [Inline Functions e Reified](https://kotlinlang.org/docs/reference/inline-functions.html)
 
 ### Interface
 
@@ -52,7 +52,7 @@ Requisitos para Kotlin Backend Intermediário:
 
 * Default Parameters
 * Extension Functions
-* High-order Functions
+* [High-order Functions e Lambdas](https://kotlinlang.org/docs/reference/lambdas.html)
 * Currying
 * Inline
 * Infix
